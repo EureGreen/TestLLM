@@ -17,4 +17,7 @@ OPENROUTER_API_KEY= \\Вставляете api с openrout желательно 
 ALLOWED_USERS= \\Разрешенные пользователи для бота;
 TELEGRAM_BOT_TOKEN= \\Если запускать вариант бота в телеграм, нужен апи бота;
 
+ Зависимости:
+-скопируйте requirements в txt файл с названием requirements.txt
+- в cmd pip install requirements.txt
 
